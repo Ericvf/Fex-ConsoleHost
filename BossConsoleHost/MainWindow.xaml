@@ -1,0 +1,26 @@
+﻿<Window x:Class="BossConsoleHost.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:my="clr-namespace:BossConsoleHost"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Height="{my:SettingBinding Height}"
+        Width="{my:SettingBinding Width}"
+        Left="{my:SettingBinding Left}"
+        Top="{my:SettingBinding Top}">
+    
+    <Grid Name="LayoutRoot">
+        <ScrollViewer VerticalScrollBarVisibility="Hidden" Name="cv" >
+            <ItemsControl ItemsSource="{Binding Lines}" MouseDown="MainWindow_MouseDown" Background="Transparent">
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel>
+                            <TextBlock Text="{Binding}" Foreground="White" FontSize="14" FontFamily="Consolas" TextWrapping="Wrap"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </ScrollViewer>
+        
+        <TextBlock Text="{Binding Input}" FontSize="36" Foreground="Magenta"
+                   HorizontalAlignment="Right" VerticalAlignment="Bottom" />
+    </Grid>
+</Window>

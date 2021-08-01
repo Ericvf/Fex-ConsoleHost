@@ -1,0 +1,16 @@
+G:\github\BossConsoleHost\BossConsoleHost\bin\Debug\BossConsoleHost.exe.config
+G:\github\BossConsoleHost\BossConsoleHost\bin\Debug\BossConsoleHost.exe
+G:\github\BossConsoleHost\BossConsoleHost\bin\Debug\BossConsoleHost.pdb
+G:\github\BossConsoleHost\BossConsoleHost\obj\Debug\BossConsoleHost.csproj.AssemblyReference.cache
+G:\github\BossConsoleHost\BossConsoleHost\obj\Debug\MainWindow.g.cs
+G:\github\BossConsoleHost\BossConsoleHost\obj\Debug\App.g.cs
+G:\github\BossConsoleHost\BossConsoleHost\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\github\BossConsoleHost\BossConsoleHost\obj\Debug\BossConsoleHost_MarkupCompile.cache
+G:\github\BossConsoleHost\BossConsoleHost\obj\Debug\BossConsoleHost_MarkupCompile.lref
+G:\github\BossConsoleHost\BossConsoleHost\obj\Debug\MainWindow.baml
+G:\github\BossConsoleHost\BossConsoleHost\obj\Debug\BossConsoleHost.g.resources
+G:\github\BossConsoleHost\BossConsoleHost\obj\Debug\BossConsoleHost.Properties.Resources.resources
+G:\github\BossConsoleHost\BossConsoleHost\obj\Debug\BossConsoleHost.csproj.GenerateResource.cache
+G:\github\BossConsoleHost\BossConsoleHost\obj\Debug\BossConsoleHost.csproj.CoreCompileInputs.cache
+G:\github\BossConsoleHost\BossConsoleHost\obj\Debug\BossConsoleHost.exe
+G:\github\BossConsoleHost\BossConsoleHost\obj\Debug\BossConsoleHost.pdb
